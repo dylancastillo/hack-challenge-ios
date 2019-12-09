@@ -1,0 +1,23 @@
+Team Members:
+Jade Meyer (jkm253) - iOS
+Dylan Castillo (djc476) - Backend
+Alex Jung (apj35) - Backend
+Emma Scheinbaum (es849) - Design
+
+App Name: Apartment Finder
+
+App Tagline: find Ithaca apartments quickly and easily
+
+Backend repo: https://github.coecis.cornell.edu/djc476/hack-challenge
+
+We weren't able to successfully integrate the API with iOS, so there are unfortunately no screenshots - the app wouldn't show any content because that requires integration with backend.
+
+Description: With so many websites available to find apartments to rent in Ithaca, the process is unnecessarily complicated. We've compiled all of that data into one app to make it easier for users to find apartments to rent.
+
+iOS Requirements:
+- AutoLayout using NSLayoutConstraint
+- Two UICollectionViews: for filters and for apartment listings
+- Navigation between ViewController and ApartmentViewController
+- Unfortunately, I was not able to figure out how to integrate with the API in time, but I did include a Struct class with Encodable and Decodable.
+
+Thanks for a great semester!
